@@ -1,3 +1,3 @@
 # Notas
 
-Este repositorio contiene varios customHooks para no volver a escribirlos mas
+This repository is for my own custom hooks
