@@ -1,4 +1,4 @@
-const useEditor = () => {
+export const useEditor = () => {
   const edit = document.createElement("div");
   (edit.style.position = "fixed"),
     (edit.style.top = "30%"),
